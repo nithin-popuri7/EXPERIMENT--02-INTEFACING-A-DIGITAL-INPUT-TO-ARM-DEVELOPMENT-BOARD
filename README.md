@@ -169,9 +169,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![Exp2](https://user-images.githubusercontent.com/94154780/227711017-85ab7fb7-4768-40d4-967f-45bb88cc7093.jpeg)
+![LED OFF](https://user-images.githubusercontent.com/94154780/227711553-5ce032de-bf6a-46e8-ad87-00985299f22e.png)
 
-![Exp 2 1](https://user-images.githubusercontent.com/94154780/227711023-8533ee02-8b01-405e-addf-cb516e1396f9.jpeg)
+![LED ON](https://user-images.githubusercontent.com/94154780/227711557-b95b6ebe-c04a-458a-a07e-c553b8b05c3a.png
 
 
  
